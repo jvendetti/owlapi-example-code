@@ -1,0 +1,13 @@
+# General
+.DS_Store
+*.log
+src/test/resources
+
+# IntelliJ
+.idea/
+
+# JEnv local Java version configuration file
+.java-version
+
+# Maven
+target/
